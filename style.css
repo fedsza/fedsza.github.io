@@ -1,0 +1,47 @@
+
+#nazv {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+    position: absolute;
+    left: 350px;
+}
+#soob {
+    font-size: 200%;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    position: absolute;
+    left: 300px;
+    top: 45px;
+}
+#start {
+    height: 100;
+    border-radius: 1em;
+    font-size: 300%;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+}
+#butt2 {
+    border-radius: 1em;
+    font-size: 300%;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 400px;
+    top: 300px;
+    display: none;
+}
+#butt3 {
+    border-radius: 1em;
+    font-size: 300%;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+    display: none;
+}
+#cart {
+    position: absolute;
+    left: 350px;
+    top: 200px;
+    display: none;
+}
